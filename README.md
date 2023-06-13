@@ -7,4 +7,4 @@ Research:
 3. The images are different formats, png, jpeg, jpg how do we work with this.
 4. The covid dataset for images that have covid is only 125 images. Pretty small? Might affect accuracy alot.
 
-<h3> Built in a collaboration for ITM390: Machine Learning's Final Project </h3>
+<h3> Built for ITM390: Machine Learning's Final Project </h3>
